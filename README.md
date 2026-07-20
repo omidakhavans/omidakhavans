@@ -63,6 +63,4 @@ Product architecture     licensing, entitlements, credits, usage logs, dashboard
 
 ## Philosophy
 
-> The greatest happiness of the greatest number is the foundation of morals and legislation.
->
-> Jeremy Bentham
+> Practical software should reduce friction, create real utility, and make everyday work a little easier to live with.
