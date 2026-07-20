@@ -63,4 +63,6 @@ Product architecture     licensing, entitlements, credits, usage logs, dashboard
 
 ## Philosophy
 
-Build useful things, keep the architecture honest, and leave systems easier to change than they were yesterday.
+> The greatest happiness of the greatest number is the foundation of morals and legislation.
+>
+> Jeremy Bentham
