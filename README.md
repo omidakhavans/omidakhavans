@@ -1,24 +1,23 @@
 # Omid Akhavan
 
-**AI Product Engineer | Lead Web Engineer | Senior Software Architect**
+I build products around WordPress, AI workflows, and scalable web systems.
 
-I build AI-enabled web products, WordPress platforms, and SaaS-style systems that need to be secure, scalable, measurable, and maintainable. My work sits close to product outcomes: architecture, implementation, performance, release quality, and the operational details that keep systems reliable after launch.
+Most of my work is in the space between product engineering and architecture: turning rough ideas into reliable features, cleaning up legacy systems, building admin tools, integrating APIs, and making high-volume background work behave predictably.
 
-[![Portfolio](https://img.shields.io/badge/Blog-omidakhavan.blog-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)](https://omidakhavan.blog/)
+[![Blog](https://img.shields.io/badge/Blog-omidakhavan.blog-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)](https://omidakhavan.blog/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Omid%20Akhavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omid-akhavan-engineer/)
 [![GitHub](https://img.shields.io/badge/GitHub-omidakhavans-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omidakhavans)
-[![WordPress](https://img.shields.io/badge/WordPress_Profile-Open%20Source-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/omidakhavan/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omidaking@gmail.com)
+[![WordPress](https://img.shields.io/badge/WordPress-Profile-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/omidakhavan/)
 
-## Focus
+## What I Work On
 
-- Leading architecture and delivery for modern WordPress products, enterprise plugins, and AI-powered product workflows.
-- Designing secure AI integrations with licensing, entitlement checks, usage metering, credit systems, and operational dashboards.
-- Modernizing legacy PHP and WordPress codebases with modular services, dependency injection, typed interfaces, and testable boundaries.
-- Building React and TypeScript admin experiences, REST APIs, WP-CLI tooling, import pipelines, and high-throughput background jobs.
-- Collaborating with distributed teams across AMER and EMEA time zones.
+- AI-powered product features for content workflows, summarization, rewriting, usage metering, credits, and operational dashboards.
+- WordPress products, enterprise plugins, Gutenberg blocks, REST APIs, WP-CLI tooling, and multisite/headless setups.
+- SaaS-style systems with licensing, entitlements, billing-adjacent logic, background jobs, queues, retries, and audit-friendly records.
+- Modernizing PHP and WordPress codebases with modular services, dependency injection, testing, static analysis, and release discipline.
+- React and TypeScript interfaces for product dashboards, admin workflows, previews, settings, and reporting.
 
-## Current Stack
+## Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -39,32 +38,18 @@ I build AI-enabled web products, WordPress platforms, and SaaS-style systems tha
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
-## Selected Impact
-
-- Architected AI SaaS infrastructure for WordPress products, including secure API integrations, license validation, entitlement checks, credits, metering, and reporting.
-- Implemented AI workflows for summarization, TL;DR generation, rewriting, source-level settings, preview flows, and import-time processing.
-- Designed ledger-based credit accounting integrated with Easy Digital Downloads, including default and purchased pools, renewals, deactivation handling, idempotency, and recovery-safe behavior.
-- Improved background processing reliability for high-volume import and AI workloads, supporting 1,000+ jobs per minute with retries, recovery controls, and caching.
-- Led modernization of large WordPress products toward modular architecture, SOLID boundaries, CI/CD, static analysis, and stronger release practices.
-- Delivered enterprise WordPress and WooCommerce systems with custom Gutenberg blocks, REST APIs, performance tuning, caching, and security hardening.
-
-## Engineering Areas
+## Recent Themes
 
 ```text
-AI product engineering     OpenAI APIs, prompt workflows, usage metering, RAG concepts
-WordPress architecture     VIP standards, plugins, themes, Gutenberg, Multisite, WP-CLI
-Backend systems            PHP, REST, GraphQL, MySQL, queues, caching, background jobs
-Frontend products          React, TypeScript, admin UX, product workflows, dashboards
-Quality and delivery       PHPUnit, Jest, Cypress, PHPCS, PHPStan, CI/CD, code review
-Infrastructure             AWS, Docker, CDN, Redis, Memcached, monitoring, performance
+AI product engineering    prompts, metering, credits, logs, dashboards
+WordPress architecture    plugins, VIP standards, Gutenberg, WP-CLI
+Backend systems           PHP, REST, GraphQL, MySQL, queues, caching
+Frontend workflows        React, TypeScript, admin UX, previews, reports
+Quality                   PHPUnit, Jest, Cypress, PHPCS, PHPStan, CI/CD
 ```
 
-## Open Source And Product Work
+## Open Source
 
-- Lead Software Engineer at [RebelCode](https://rebelcode.com/), working on [WP RSS Aggregator](https://wordpress.org/plugins/wp-rss-aggregator/) and AI-powered product infrastructure.
-- Previously built and shipped WordPress products and add-ons with Strategy11, 8Theme, Realtyna, Webnus, and Averta.
-- Long-term contributor to the WordPress product ecosystem, with experience across plugin architecture, marketplace products, support escalation, and release operations.
+I spend a lot of time in the WordPress ecosystem, especially around long-running products, product-led architecture, performance, and maintainable plugin systems.
 
-## How I Work
-
-I care about clear ownership, calm execution, and engineering choices that make products easier to extend. I like teams that value practical architecture, honest tradeoffs, strong review culture, and shipping useful software without losing quality.
+Currently working on [WP RSS Aggregator](https://wordpress.org/plugins/wp-rss-aggregator/) and AI-powered infrastructure at [RebelCode](https://rebelcode.com/).
