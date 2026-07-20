@@ -4,11 +4,6 @@ I build products around WordPress, AI workflows, and scalable web systems.
 
 Most of my work is in the space between product engineering and architecture: turning rough ideas into reliable features, cleaning up legacy systems, building admin tools, integrating APIs, and making high-volume background work behave predictably.
 
-[![Blog](https://img.shields.io/badge/Blog-omidakhavan.blog-0A66C2?style=for-the-badge&logo=wordpress&logoColor=white)](https://omidakhavan.blog/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omid%20Akhavan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omid-akhavan-engineer/)
-[![GitHub](https://img.shields.io/badge/GitHub-omidakhavans-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omidakhavans)
-[![WordPress](https://img.shields.io/badge/WordPress-Profile-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://profiles.wordpress.org/omidakhavan/)
-
 ## What I Work On
 
 - AI-powered product features for content workflows, summarization, rewriting, usage metering, credits, and operational dashboards.
